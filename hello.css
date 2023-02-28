@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+    background-color: Maroon;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+ .myclass{
+        
+    background-color: Maroon;
+    width: 500px;
+    height: 350px;
+    margin-top: 40px;
+ }
+.myvideo{
+    display: block;
+
+    width: 500px;
+    height: 270px;
+    border-radius: 20px;
+}
+.myname{
+    display: block;
+    width: 500px;
+    color: white;
+    background: linear-gradient(to right, rgba(9, 229, 16, 0) 0%, rgba(7, 213, 21, 0.5) 0%, rgba(3, 52, 214, 0) 62%)
+    /* background-color: blue; */
+}
